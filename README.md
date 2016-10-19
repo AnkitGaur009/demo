@@ -1,2 +1,3 @@
 # demo
-my first program
+my first program.
+Hey I am new in this. But love it.
